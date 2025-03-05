@@ -1,0 +1,2 @@
+# Customer-Financial-Profile-Clusters-A-Deep-Dive-into-Debt-Income-and-Default-Risk-Segmentation
+This repository performs clustering on customer financial data using variables such as age, income, debt levels, and employment duration. It identifies three groups:The code includes data preprocessing, clustering implementation, and visualization to inform targeted financial strategies and risk management decisions.

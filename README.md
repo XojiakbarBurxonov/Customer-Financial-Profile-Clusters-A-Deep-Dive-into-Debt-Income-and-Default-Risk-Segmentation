@@ -43,8 +43,11 @@ This repository showcases an analysis of customer financial profiles through clu
 ### 3. Key Insights:
 
 `Cluster 0` is financially stable, with low debt and almost no default risk.
+
 `Cluster 1` has higher income but also higher debt and a moderate risk of default.
+
 `Cluster 2` is the riskiest group, with low income, high debt, and an extremely high default rate (~85%).
+
 
 
 The repository includes data preprocessing, clustering implementation, and visualization scripts to help identify and understand these distinct customer segments. This analysis can inform targeted financial strategies and risk management decision
